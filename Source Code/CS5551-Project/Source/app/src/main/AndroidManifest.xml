@@ -21,8 +21,6 @@
         </activity>
         <activity android:name=".MainActivity" />
         <activity android:name=".PhotoActivity" />
-        <activity android:name=".NewsActivity" />
-        <activity android:name=".AnalyzeActivity" />
 
         <meta-data
             android:name="com.facebook.sdk.ApplicationId"
