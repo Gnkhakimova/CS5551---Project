@@ -1,0 +1,86 @@
+{
+  "project_info": {
+    "project_number": "853108019044",
+    "firebase_url": "https://lab-2-cs5551.firebaseio.com",
+    "project_id": "lab-2-cs5551",
+    "storage_bucket": "lab-2-cs5551.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:853108019044:android:fdec151632cb7f3e",
+        "android_client_info": {
+          "package_name": "edu.umkc.anonymous.lab2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "853108019044-9t4t2epd3rbrvl9n1m87r6hbkruttl7u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAwambdQC_6NZNKOYdC24zx6bVG8n0ohkQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:853108019044:android:334cc0b126409614",
+        "android_client_info": {
+          "package_name": "edu.umkc.anonymous.lab3"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "853108019044-5ks7so2tt4d7vvejigohdad15r7sfag9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "edu.umkc.anonymous.lab3",
+            "certificate_hash": "1a8c69f1bacce914a0a4c2ec19919c2d19c81104"
+          }
+        },
+        {
+          "client_id": "853108019044-9t4t2epd3rbrvl9n1m87r6hbkruttl7u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAwambdQC_6NZNKOYdC24zx6bVG8n0ohkQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "853108019044-9t4t2epd3rbrvl9n1m87r6hbkruttl7u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
