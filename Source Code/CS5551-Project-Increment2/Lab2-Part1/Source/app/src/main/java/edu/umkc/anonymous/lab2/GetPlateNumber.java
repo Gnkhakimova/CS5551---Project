@@ -85,7 +85,7 @@ public class GetPlateNumber extends AppCompatActivity {
             String result = "";
 
             try {
-                String secret_key = "sk_ae9a150802a7ee701116217f";
+                String secret_key = "";
                 ByteArrayOutputStream stream = new ByteArrayOutputStream();
                 img.compress(Bitmap.CompressFormat.PNG, 100, stream);
                 byte[] data = stream.toByteArray();

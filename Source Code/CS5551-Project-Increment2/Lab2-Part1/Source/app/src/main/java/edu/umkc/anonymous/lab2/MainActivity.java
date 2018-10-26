@@ -89,7 +89,7 @@ public class MainActivity extends Activity {
         @Override
         protected String doInBackground(String... arg) {
 
-            final ClarifaiClient client = new ClarifaiBuilder("814464bfd2914a3b8ba9e6f7138ff131").buildSync();
+            final ClarifaiClient client = new ClarifaiBuilder("").buildSync();
             Model<Concept> generalModel = client.getDefaultModels().generalModel();
 
             PredictRequest<Concept> request = generalModel.predict().withInputs(
