@@ -11,11 +11,13 @@ import org.json.JSONObject;
 
 import java.io.BufferedReader;
 import java.io.ByteArrayOutputStream;
+import java.io.Console;
 import java.io.InputStreamReader;
 import java.io.OutputStream;
 import java.net.HttpURLConnection;
 import java.net.URL;
 import java.net.URLConnection;
+import java.util.HashMap;
 
 public class GetPlateNumber extends AppCompatActivity {
     Bitmap img;
@@ -26,6 +28,10 @@ public class GetPlateNumber extends AppCompatActivity {
     String VehicleYear;
     String VehicleColor;
     String VehicleMake;
+    String stolen;
+    String crash;
+    String outStolen = "No";
+    String outCrash = "No";
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -53,6 +59,8 @@ public class GetPlateNumber extends AppCompatActivity {
             VehicleColor= json.getJSONArray("results").getJSONObject(0).getJSONObject("vehicle").getJSONArray("color").getJSONObject(0).getString("name");
             VehicleMake= json.getJSONArray("results").getJSONObject(0).getJSONObject("vehicle").getJSONArray("make").getJSONObject(0).getString("name");
             VehicleYear= json.getJSONArray("results").getJSONObject(0).getJSONObject("vehicle").getJSONArray("year").getJSONObject(0).getString("name");
+            getInfoTask iTask = new getInfoTask();
+            iTask.execute("a","b","c");
             runOnUiThread(new Runnable() {
 
                 @Override
@@ -129,5 +137,73 @@ public class GetPlateNumber extends AppCompatActivity {
         }
 
         }
+    private class getInfoTask extends AsyncTask<String, Integer, String> {
+        String mTAG = "getInfoTask";
+        @Override
+        protected void onPreExecute() {
+        }
+
+        @Override
+        protected String doInBackground(String...arg) {
+            String result = "";
+            BufferedReader reader = null;
+            StringBuilder stringBuilder;
+
+
+            try {
+
+                // Setup the HTTPS connection to api.openalpr.com
+                URL url = new URL("https://quiet-brushlands-99331.herokuapp.com/search?plate="+plate);
+                URLConnection con = url.openConnection();
+                HttpURLConnection http = (HttpURLConnection) con;
+                http.setRequestMethod("GET"); // PUT is another valid option
+                con.setReadTimeout(15000);
+                con.connect();
+                reader = new BufferedReader(new InputStreamReader(con.getInputStream()));
+                stringBuilder = new StringBuilder();
+
+                String line = null;
+                while ((line = reader.readLine()) != null)
+                {
+                    stringBuilder.append(line + "\n");
+                }
+                String temp = stringBuilder.toString();
+                temp.substring(2, temp.length()-2);
+                HashMap<String, String> holder = new HashMap();
+                String payload = temp;
+                String[] keyVals = payload.split(",");
+                for(String keyVal:keyVals)
+                {
+                    String[] parts = keyVal.split(":",2);
+                    holder.put(parts[0],parts[1]);
+                }
+                stolen = holder.get("\"stolen\"");
+                crash = holder.get("\"crash\"");
+
+                if(stolen.contains("yes")){
+                    outStolen = "Yes";
+                }
+                if(crash.contains("yes")){
+                    outCrash = "Yes";
+                }
+                runOnUiThread(new Runnable() {
+
+                    @Override
+                    public void run() {
+
+                        TextView TV = (TextView) findViewById(R.id.info);
+                        TV.setText("Stolen: "+outStolen+"\n"+
+                                "Car Accedent: "+outCrash+"\n");
+                    }
+                });
+                System.out.println(stringBuilder.toString());
+                return stringBuilder.toString();
+            } catch (Exception e) {
+                System.out.println(e.toString());
+            }
+            return result;
+        }
+
+    }
 
 }
