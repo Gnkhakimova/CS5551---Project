@@ -96,7 +96,7 @@ public class MainActivity extends Activity {
                     ClarifaiInput.forImage(imageUrl)
             );
             List<ClarifaiOutput<Concept>> result = request.executeSync().get();
-final String results = "Results: "+result.get(0).data().get(0).name().toString() +", "+result.get(0).data().get(1).name().toString()+", "+result.get(0).data().get(2).name().toString() ;
+            final String results = "Results: "+result.get(0).data().get(0).name().toString() +", "+result.get(0).data().get(1).name().toString()+", "+result.get(0).data().get(2).name().toString() ;
             runOnUiThread(new Runnable() {
 
                 @Override
