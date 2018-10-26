@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@mipmap/sky"
+    tools:context=".MainActivity">
+
+    <Button
+        android:id="@+id/btn_photo"
+        style="@style/Widget.AppCompat.Button.Colored"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="75dp"
+        android:onClick="redirectToPhoto"
+        android:text="PHOTO" />
+
+    <EditText
+        android:layout_width="fill_parent"
+        android:id="@+id/url"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="150dp"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"
+        android:background="@drawable/rounded_edittext"/>
+
+    <Button
+        android:id="@+id/btn_face"
+        style="@style/Widget.AppCompat.Button.Colored"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="230dp"
+        android:onClick="redirectToFace"
+        android:text="Clarifai" />
+
+    <TextView
+        android:id="@+id/clarifai"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="300dp"
+        android:gravity="center"
+        android:textStyle="bold"
+        android:fontFamily="sans-serif"
+        android:textAppearance="@android:style/TextAppearance.Material.Large" />
+
+    <!--<Button-->
+        <!--android:id="@+id/btn_news"-->
+        <!--style="@style/Widget.AppCompat.Button.Colored"-->
+        <!--android:layout_width="wrap_content"-->
+        <!--android:layout_height="wrap_content"-->
+        <!--android:layout_centerInParent="true"-->
+        <!--android:onClick="redirectToNews"-->
+        <!--android:text="NEWS" />-->
+
+    <Button
+        android:id="@+id/btn_logout"
+        style="@style/Widget.AppCompat.Button.Borderless"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="115dp"
+        android:onClick="logout"
+        android:text="LOG OUT" />
+</RelativeLayout>
