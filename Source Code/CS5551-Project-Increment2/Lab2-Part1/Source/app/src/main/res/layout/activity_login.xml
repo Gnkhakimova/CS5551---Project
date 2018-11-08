@@ -5,7 +5,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:layout_marginTop="0dp"
-    android:background="@mipmap/sky"
+    android:background="@drawable/bg"
     tools:context=".LoginActivity">
 
     <EditText
@@ -15,21 +15,22 @@
         android:layout_alignParentTop="true"
         android:layout_centerHorizontal="true"
         android:layout_marginTop="100dp"
+        android:background="@drawable/rounded_edittext"
         android:ems="10"
-        android:hint="Username/Email"
+        android:hint="  Username/Email"
         android:inputType="textPersonName"
-        android:background="@drawable/rounded_edittext"/>
+        android:textColor="#fff" />
 
     <EditText
         android:id="@+id/editTextPassword"
-        android:background="@drawable/rounded_edittext"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_alignParentTop="true"
         android:layout_centerHorizontal="true"
         android:layout_marginTop="165dp"
+        android:background="@drawable/rounded_edittext"
         android:ems="10"
-        android:hint="Password"
+        android:hint="  Password"
         android:inputType="textPassword" />
 
     <TextView
@@ -38,11 +39,12 @@
         android:layout_height="wrap_content"
         android:layout_centerHorizontal="true"
         android:layout_marginTop="50dp"
-        android:gravity="center"
-        android:textStyle="bold"
         android:fontFamily="sans-serif"
+        android:gravity="center"
         android:text="Login"
-        android:textAppearance="@android:style/TextAppearance.Material.Large" />
+        android:textAppearance="@android:style/TextAppearance.Material.Large"
+        android:textColor="#fff"
+        android:textStyle="bold" />
 
     <Button
         android:id="@+id/btnLogin"
@@ -51,6 +53,7 @@
         android:layout_alignStart="@+id/editTextUser"
         android:layout_centerVertical="true"
         android:text="Login"
+        android:background="@drawable/buttonstyleselector"
         android:theme="@style/MyButton"
         style="@style/Widget.AppCompat.Button.Borderless"
         android:clickable="true"/>
@@ -66,19 +69,21 @@
         android:layout_centerVertical="true"
         android:text="Sign Up"
         android:onClick="signup"
+        android:background="@drawable/buttonstyleselector"
         android:theme="@style/MyButton"
         style="@style/Widget.AppCompat.Button.Borderless"/>
 
     <Button
         android:id="@+id/fb"
-        android:layout_width="wrap_content"
+        style="@style/Widget.AppCompat.Button.Borderless"
+        android:layout_width="132dp"
         android:layout_height="wrap_content"
-        android:layout_marginTop="350dp"
         android:layout_centerHorizontal="true"
-        android:text="Facebook Login"
+        android:layout_marginTop="350dp"
+        android:background="@drawable/buttonstyleselector"
         android:clickable="true"
-        android:theme="@style/MyButton"
-        style="@style/Widget.AppCompat.Button.Borderless"/>
+        android:text="Facebook Login"
+        android:theme="@style/MyButton" />
 
 
     <TextView
@@ -87,10 +92,10 @@
         android:layout_height="wrap_content"
         android:layout_alignParentBottom="true"
         android:layout_centerHorizontal="true"
-        android:layout_marginBottom="90dp"
+        android:layout_marginBottom="66dp"
         android:text="Invalid username or password"
-        android:textColor="#ff0000"
         android:textAppearance="@android:style/TextAppearance.Material.Large"
+        android:textColor="#ff0000"
         android:visibility="invisible" />
 
 </RelativeLayout>
