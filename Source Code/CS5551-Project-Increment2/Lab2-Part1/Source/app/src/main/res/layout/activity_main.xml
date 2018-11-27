@@ -4,7 +4,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:background="@mipmap/sky"
+    android:background="@drawable/bg"
     tools:context=".MainActivity">
 
     <Button
@@ -16,6 +16,7 @@
         android:layout_centerHorizontal="true"
         android:layout_marginTop="75dp"
         android:onClick="redirectToPhoto"
+        android:background="@drawable/buttonstyleselector"
         android:text="PHOTO" />
 
     <EditText
@@ -36,6 +37,7 @@
         android:layout_centerHorizontal="true"
         android:layout_marginTop="230dp"
         android:onClick="redirectToFace"
+        android:background="@drawable/buttonstyleselector"
         android:text="Clarifai" />
 
     <TextView
@@ -46,6 +48,7 @@
         android:layout_marginTop="300dp"
         android:gravity="center"
         android:textStyle="bold"
+        android:textColor="#fff"
         android:fontFamily="sans-serif"
         android:textAppearance="@android:style/TextAppearance.Material.Large" />
 
@@ -67,5 +70,7 @@
         android:layout_centerHorizontal="true"
         android:layout_marginBottom="115dp"
         android:onClick="logout"
+        android:textColor="#fff"
+        android:background="@drawable/buttonstyleselector"
         android:text="LOG OUT" />
 </RelativeLayout>
