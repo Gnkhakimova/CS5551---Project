@@ -5,7 +5,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:layout_marginTop="0dp"
-    android:background="@mipmap/sky"
+    android:background="@drawable/bg"
     tools:context=".GetPlateNumber">
 
 
@@ -17,6 +17,7 @@
         android:layout_marginTop="100dp"
         android:gravity="center"
         android:textStyle="bold"
+        android:textColor="#fff"
         android:fontFamily="sans-serif"
         android:textAppearance="@android:style/TextAppearance.Material.Large" />
 
@@ -28,6 +29,7 @@
         android:layout_marginTop="250dp"
         android:gravity="center"
         android:textStyle="bold"
+        android:textColor="#fff"
         android:fontFamily="sans-serif"
         android:textAppearance="@android:style/TextAppearance.Material.Large" />
 
