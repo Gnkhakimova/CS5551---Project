@@ -1,0 +1,16 @@
+{
+  "name": "tutorial",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "cors": "^2.8.4",
+    "express": "4.13.3",
+    "mongodb": "^3.1.8"
+  },
+  "author": "Kathryn Hodge",
+  "license": "ISC"
+}
