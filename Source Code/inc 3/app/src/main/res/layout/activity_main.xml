@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.rohithkumar.cameramapsapplication.MainActivity">
+
+    <Button
+        android:id="@+id/main_btn_photo"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:onClick="onPhotoClick"
+        android:text="Take photo"
+        tools:layout_editor_absoluteX="123dp"
+        tools:layout_editor_absoluteY="111dp"
+        android:layout_marginTop="160dp"
+        android:layout_alignParentTop="true"
+        android:layout_alignStart="@+id/main_btn_record"
+        android:layout_alignEnd="@+id/main_btn_record" />
+
+    <Button
+        android:id="@+id/main_btn_record"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/main_btn_photo"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="35dp"
+        android:onClick="onLocationClick"
+        android:text="Display Location"></Button>
+
+    <Button
+        android:id="@+id/sensor"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="100dp"
+        android:onClick="onSensorClick"
+
+        android:text="Display Sensor"></Button>
+
+    <Button
+        android:id="@+id/main_file_save"
+        android:layout_width="wrap_content"
+        android:layout_height="41dp"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginStart="118dp"
+        android:layout_marginTop="320dp"
+        android:layout_marginEnd="114dp"
+        android:layout_marginBottom="150dp"
+        android:onClick="onFileClick"
+        android:text="File Save" />
+
+    <Button
+        android:id="@+id/button2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="75dp"
+        android:onClick="onAudioClick"
+        android:text="Audio- Recorder" />
+
+</RelativeLayout>
