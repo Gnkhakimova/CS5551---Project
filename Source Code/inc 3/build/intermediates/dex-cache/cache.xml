@@ -1,0 +1,608 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\pranitha\.android\build-cache\f34f66f2caad8f0e694bb46d8ceb8676b302b8d7\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="C:\Users\pranitha\Desktop\CameraMapsApplication\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_7b4ba2f425752dc806eeddd5fbbb4c939b713f13\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\pranitha\.android\build-cache\5e889251e19ece6e9d8d30c0999029b653f17fa2\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="67eb33110dbacb46a48175b08ae0c96761d2c17d">
+        <dex dex="C:\Users\pranitha\Desktop\CameraMapsApplication\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_0e0b3146ed30c0abc94a57e805fa4a49ecbe8fc0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\pranitha\.android\build-cache\e319761f5fa7736caad8cd0bf7a27a7a3515e1f9\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="c6aa915c08cfd82780c10d4b957018bf819a48e2">
+        <dex dex="C:\Users\pranitha\Desktop\CameraMapsApplication\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_570a5d6afba1aed35ba06992090888dff7dac3d0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\pranitha\Desktop\CameraMapsApplication\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="C:\Users\pranitha\Desktop\CameraMapsApplication\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_8b19e099abbf517cd313a1dc03376ebe467357cf\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\pranitha\.android\build-cache\9efa62e5eb8dd97b7bc5a020c279facf3cb6eb75\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\pranitha\Desktop\CameraMapsApplication\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_d2ae37ef6bd5e7781d40a57d0ca3fff116c2b0ea\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\pranitha\.android\build-cache\0ad55484cb0601fdc55067b819d7e29fb5dce1fa\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="a5d52089bf4d31537232bb6bcb70cee817d8a374">
+        <dex dex="C:\Users\pranitha\Desktop\CameraMapsApplication\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_c52f42105467d0e17bd7790a522b36640ec278a6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\pranitha\.android\build-cache\fb59f136ecde3fd2f05996dd2b8e8b170e882c57\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="2430e711762a749feb00b3d64858ca4768251b9d">
+        <dex dex="C:\Users\pranitha\Desktop\CameraMapsApplication\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_e213ea4f71db9019a924966c3cefe1ef29d275f3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\pranitha\.android\build-cache\c34c41996acf9a0fcf9089c34d98ad5f64b66168\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="e1625e48a836779b5fa141d22e5d05563aaccc9a">
+        <dex dex="C:\Users\pranitha\Desktop\CameraMapsApplication\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_bd68ce5c388f9ef13dc9f1a0238bb156b0f71c9f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\pranitha\.android\build-cache\2486e6b546caf60cd1a5c4702f1b1136b4de2787\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="c1b91bc7e480ab100d0397b16c93732e26fd10eb">
+        <dex dex="C:\Users\pranitha\Desktop\CameraMapsApplication\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_4d19957ec8f038ddb8b184c26be2f00eb4c0cfc9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\pranitha\.android\build-cache\39cf8177593e27dffc9618bc892fea2143885c84\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="576570f46ff6ccc69a984af9e55ddd58d9549270">
+        <dex dex="C:\Users\pranitha\Desktop\CameraMapsApplication\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_335678033399a5845916e0f4edbc1fcba9e9a8a3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\pranitha\Desktop\CameraMapsApplication\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="4687bde787f9b5f0fab4084df7d64cd4d887bf34">
+        <dex dex="C:\Users\pranitha\Desktop\CameraMapsApplication\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_87f68bd851283d61731346eab3812794be7044d5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\pranitha\.android\build-cache\0822a6278ee262fe4d05c93a2c5a631706174d1b\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="f47f4d5bdfd7d7bf330945b8a7ccce4ab437a710">
+        <dex dex="C:\Users\pranitha\Desktop\CameraMapsApplication\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_11905b9415da5318918e419390365fc10e0ddc46\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\pranitha\AppData\Local\Android\Sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.2\constraint-layout-solver-1.0.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="C:\Users\pranitha\Desktop\CameraMapsApplication\app\build\intermediates\transforms\dex\debug\folders\1000\10\constraint-layout-solver-1.0.2_c3b25c6dc5e809712becc1b309136d0a0d1e4076\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\pranitha\.android\build-cache\1f0122507574c7302a5596d14fc27009dbb05496\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="63b03eaa1aa9b9431c7638841175f9842dcbf274">
+        <dex dex="C:\Users\pranitha\Desktop\CameraMapsApplication\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_0736d77b2760f5de1c38ba925172fb2c98439bda\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\pranitha\.android\build-cache\e77944bf537500e787bc2e79564983a32ffcd757\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="cb454b52545859ed2f24a6c01366805b0fa04b22">
+        <dex dex="C:\Users\pranitha\Desktop\CameraMapsApplication\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_5962b4e2cff621fa766cee723813f302092d06f2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\pranitha\.android\build-cache\2b7a6aa36e69363b203e4946bce411529aa9ef98\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="56d68d1174b9c1e368017a850b62b12429f39757">
+        <dex dex="C:\Users\pranitha\Desktop\CameraMapsApplication\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_6a7d9e879a9c981115936a7ac68bfb6c184785f3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\pranitha\.android\build-cache\81ea705b6a472a1a55ea6191ae4197a1f1d82189\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="4b685077cdb08cf7ae8b61afd1fe910e47d91b9a">
+        <dex dex="C:\Users\pranitha\Desktop\CameraMapsApplication\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_3d4f6abfd0cebcef9f74bfd2e38542e2e2bd07e1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\pranitha\.android\build-cache\882cc5acfc42305cf6be79ae8a8aab90cb03dfb2\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="c6706cc7c8c3093560edd55d322218afe7798aa9">
+        <dex dex="C:\Users\pranitha\Desktop\CameraMapsApplication\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_c2d48d353d1872005a425e653ddb10c27eb5c8b3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\pranitha\.android\build-cache\da679b4ae43a1a64344a8775af1eb795992e2dd9\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="dae0d68af4c87df40eca67069861e53b7cefaaa0">
+        <dex dex="C:\Users\pranitha\Desktop\CameraMapsApplication\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_4f84e04491247892c3581096ed30bbce66b02256\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\pranitha\.android\build-cache\16630151fe10f87375276024844c507ce1b326e7\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="d8942ee348aaa9341f08f7e2437063893fe27542">
+        <dex dex="C:\Users\pranitha\Desktop\CameraMapsApplication\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_a172c2c3158525de79e6bb66d92e6c42f141844f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\pranitha\.android\build-cache\fd85def588953cd5003c2a6d801f5d209b2dbeec\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="8fe8a8f77d651982ce5e18f6187dc4daf914ac57">
+        <dex dex="C:\Users\pranitha\Desktop\CameraMapsApplication\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_3b93df6a5811f122cad47f8b4710a774439fbb08\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\pranitha\.android\build-cache\3fae0df815b8b0ee350fe2bef3755737d77e6321\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="e820b7be8c035dd522da4bc822e8a76c8e27921a">
+        <dex dex="C:\Users\pranitha\Desktop\CameraMapsApplication\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_274e40d9333b1a390495eabc287ed6491e7034c5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\pranitha\.android\build-cache\6cab48a56277fbee2b568a9483811b1879736519\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="2c2f1b3f82c027e98f56bb0154de0acbcce42e6d">
+        <dex dex="C:\Users\pranitha\Desktop\CameraMapsApplication\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_eab52e6b6e1df81829a626ba3c1d30b94662a3b2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\pranitha\.android\build-cache\d268fee3d1679b3dbb24b08bcdd423a4797f8c76\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="1b12397bc9f342b29d9e9108978828f99a6da579">
+        <dex dex="C:\Users\pranitha\Desktop\CameraMapsApplication\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_f8a7c905cefa9387a13605ce512c1d1b6be39d6c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\pranitha\.android\build-cache\c2f22346d0be63d534da9423bf74872dd0f4495c\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="43e9789bd3240271265ab30ce1be9f224843f5a8">
+        <dex dex="C:\Users\pranitha\Desktop\CameraMapsApplication\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_28909626f5d6f19e6582e808e2fe5747d3dc974e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\pranitha\.android\build-cache\b6117a6f3810183afeafd4b9e77662906e30fe56\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="810f41e5b7fd99f196ebeabe865ba2c54e7e76dc">
+        <dex dex="C:\Users\pranitha\Desktop\CameraMapsApplication\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_c0e221081dbab454f5938225f67393eb3a3c49b4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\pranitha\.android\build-cache\78f585b1393c4bf977b53bcc776b5f39070a9ef1\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="f2cb88e7e28736d44e7e643deb80c9af1c3662c8">
+        <dex dex="C:\Users\pranitha\Desktop\CameraMapsApplication\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_f649c2a7bd959b00cb930ed4eaf42af46a2d26db\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\pranitha\.android\build-cache\ebbeaa41c34b1ef8efb2da4b2797ec7502b357b1\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="c175c3009577fad8b433703f5d7ac2dc21d3871f">
+        <dex dex="C:\Users\pranitha\Desktop\CameraMapsApplication\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_4d94a227b1f1cc4807a86d3b68225401a0292093\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\pranitha\.android\build-cache\401e793da0f4b3a155dfbc561a7fad301c3d0627\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="8544f739799dd15db63927073a21312864ab0bfd">
+        <dex dex="C:\Users\pranitha\Desktop\CameraMapsApplication\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_1e7fc99eca999bbbb21f5116d733db854f8c0ae7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\pranitha\.android\build-cache\cc60826576f0a1840ef778da4377371ba1a33273\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="70ffe00aaf049893f59d1dad57bd82992faa38ef">
+        <dex dex="C:\Users\pranitha\Desktop\CameraMapsApplication\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_0c9eabb7e41798c8ac076bae5a201cd3474ad4d9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\pranitha\.android\build-cache\6c2ca941f7100227c6d4acb4478dc3fbf1c4ad72\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="0bffdc0bd4f7ca0e27c5bfeef39569f8da00aa26">
+        <dex dex="C:\Users\pranitha\Desktop\CameraMapsApplication\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_69ac3b741a8ff1b2c34d58d2d8a1abf45f349c51\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\pranitha\.android\build-cache\38843d3515bfbea9c3e0305012d954585b861c83\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="364364bf77b4a71afc5930fc3ae57b3f0eea637c">
+        <dex dex="C:\Users\pranitha\Desktop\CameraMapsApplication\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_a053ec203b1b1ea5c2dba92d93fa7fd2b5977219\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\pranitha\.android\build-cache\3f37a2a56a3bd330aebc24f2232a668fa3c318cd\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="f5ff5e3811e8c9485fd27f9052ae4d4d23a22d9d">
+        <dex dex="C:\Users\pranitha\Desktop\CameraMapsApplication\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_7d811d2a997da2b3f15625360ce15d0a3fdd41cf\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\pranitha\.android\build-cache\4c1aef5aa107dc167a390eae3e27cd32767eb4bd\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="2c379c235d7983201bb83edfc3c60bb0dafb5805">
+        <dex dex="C:\Users\pranitha\Desktop\CameraMapsApplication\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_43a2408c2029e7c7eb7325ef75a2511a72398fcf\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\pranitha\.android\build-cache\7fcb2ee7254836975d88ed30928412a7dca5c2aa\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="af13a350b71b437ebf4be335d02a8f785c39b111">
+        <dex dex="C:\Users\pranitha\Desktop\CameraMapsApplication\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_8cbfc604338ad610a63afa63a602c8d8b830668e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\pranitha\.android\build-cache\a0e27c2b342da10d5b6aad98b843bf6812b3e736\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="7c24e2e9773fb498e390ce973db382c3ddcf748e">
+        <dex dex="C:\Users\pranitha\Desktop\CameraMapsApplication\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_94e8d5db8b85285e72dec3dbfd78603f24f1c96a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\pranitha\.android\build-cache\5dfd600306be6113d67cb637211b765d35dfdf10\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="41f47bbcd281fdb1e42e220220ab3bfa1da591e0">
+        <dex dex="C:\Users\pranitha\Desktop\CameraMapsApplication\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_03e8375bee09ae793be78e497f0067f126df270a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\pranitha\.android\build-cache\ab34a2bf8af6ec665fdd52e7679c8c6daf5fd6e5\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="416fb9ee2fd6e7af0bba04b01d90cb475b1e2074">
+        <dex dex="C:\Users\pranitha\Desktop\CameraMapsApplication\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_179061a564d1e5024c6e3d3912e3100e56f0be3e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\pranitha\.android\build-cache\0bdd676d8a6f0d089c6f0de44326f7acde8bf217\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="f15e20dd7bcde7c688cfda44d0c8320a5c1c24b8">
+        <dex dex="C:\Users\pranitha\Desktop\CameraMapsApplication\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_67e609b866bcbf7e3b86787998924f1379a816e1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\pranitha\.android\build-cache\dfe97dd8728cfc4118d664956ba7086e5161f326\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="bfba7cf662f7e3e2cfeb92226c6b84c08e590225">
+        <dex dex="C:\Users\pranitha\Desktop\CameraMapsApplication\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_8fc634d5228dee041d7d866f75d5b13bfdc53ff8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\pranitha\.android\build-cache\ed18bf68cb4d1cd8cfa415f20258ef412ce37005\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="fa0446a14ed5dd3725047d6399ffea771a564b30">
+        <dex dex="C:\Users\pranitha\Desktop\CameraMapsApplication\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_f5d6daa2c172a2a6a553157564d3ddf35a06f8ed\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\pranitha\.android\build-cache\168bffa17e1cef3b182f5b44c5d065941a464551\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="2b12b18c5518021cc71577c83d1290f8ddaa3c98">
+        <dex dex="C:\Users\pranitha\Desktop\CameraMapsApplication\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_bbbc83eb7f4fa74c8a584e651ab7fcb10a306e75\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\pranitha\.android\build-cache\826404bbcbfd404e9cf889ba68e74d3a22ae0e65\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="057fb316bed8467398333f30926c2d5506e275b2">
+        <dex dex="C:\Users\pranitha\Desktop\CameraMapsApplication\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_603f47c7cd85f1f6b44246f36027b9b8fbf72c06\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\pranitha\.android\build-cache\f96c8ecd798ec828c8b2241d57b9eb07b3c7ab3f\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="eea424e61a0c85b93a0e477565314a58136abaea">
+        <dex dex="C:\Users\pranitha\Desktop\CameraMapsApplication\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_0efe2fbc1c867cef52288c5377f7419cf76190ab\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\pranitha\.android\build-cache\8c97fe1558574b2035d97264a025ba7841a35a8a\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="02b91f8efa91dcdf5c555ee24b7f006f02cd0f8b">
+        <dex dex="C:\Users\pranitha\Desktop\CameraMapsApplication\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_c73302a542083237985fa0a207d4e56fc6edf485\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\pranitha\.android\build-cache\2bdbeab355e892506f7f2fffea852fc7848a0a9d\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="ffd0ddf5e57b4d60c4a3fbcd38fa20349a0cebd1">
+        <dex dex="C:\Users\pranitha\Desktop\CameraMapsApplication\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_e084ab785df44536ee4a783e5db39ad39c9fa2df\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\pranitha\.android\build-cache\7a2ed9329ff595738bce5c1d9461c2f5836a089f\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="ed87ccdcb70c17d71ba4e6e4ac16afa62d3c49fb">
+        <dex dex="C:\Users\pranitha\Desktop\CameraMapsApplication\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_19d7a4f7a7661cedde0d8387e7eddcf3761b04b3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\pranitha\.android\build-cache\fecc7864c53ffa22faadbc628be27b5c8a4f95b4\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="3ac08c35419ab7cf9146969de471768dbe502f0f">
+        <dex dex="C:\Users\pranitha\Desktop\CameraMapsApplication\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_a9b6d53a57937c5196a388209368d81f048aabcc\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\pranitha\.android\build-cache\47f5776842fe26e3340639bc297de0405f31b96c\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="9be5e957849eb82ad9addf9bdb2896de8bf5654b">
+        <dex dex="C:\Users\pranitha\Desktop\CameraMapsApplication\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_99348e959912e6b65c9987cd487c9e1cb2b3bd0b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\pranitha\.android\build-cache\33b8d0521ceddbf889df60801173e6c020bbba78\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="fcae52a60bc07924d370b4d376116cd8f8581f54">
+        <dex dex="C:\Users\pranitha\Desktop\CameraMapsApplication\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_0029ac488b720af5b5a1851c5c7cd595b2647071\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\pranitha\.android\build-cache\2170edb68c9b0e206fb0e53bf810d3bb58abdab6\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="6b3430725095bd46b785e97bd34240826c27b4db">
+        <dex dex="C:\Users\pranitha\Desktop\CameraMapsApplication\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_0bb9ee547fe63e104e35a8c2ca6f4ff764af443e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\pranitha\.android\build-cache\f7be43f4936d02d8560d3dc139b757d926d0bd29\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="fc3036436defd3070337b7191c50a136ebca7f8f">
+        <dex dex="C:\Users\pranitha\Desktop\CameraMapsApplication\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_482f2fc5d5a790c0d3a45b359ee40682795aba40\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\pranitha\.android\build-cache\73e1dea1b7008a615cb035a298e75ff5edaccca4\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="dd282bdeaa904c59d77e57dedd7e0a241c9b679d">
+        <dex dex="C:\Users\pranitha\Desktop\CameraMapsApplication\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_94cbcc732bbafe0dd9bd6e9f5a8aa358a48564e6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\pranitha\.android\build-cache\3d78729b85bdb87059d477b9f52d1d19c2e9c839\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="c8bf878c09bf0df6ae76eb6c2df38c6a186b38b7">
+        <dex dex="C:\Users\pranitha\Desktop\CameraMapsApplication\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_137b17a4bef0fcfe8789267d3ce10c84426843dc\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\pranitha\.android\build-cache\fe1221a6ab7bc72c33cf66bae179004a41765293\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="ee394a892dd21c03a528139c1e8d4e0e1264ac84">
+        <dex dex="C:\Users\pranitha\Desktop\CameraMapsApplication\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_c77d82da41f7c2d82c261c99beb7963ce56d193f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\pranitha\.android\build-cache\e370df6fa2affedbcb7d21cbad9dd811078b7a4b\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="377c5f26ebf67f3fa6ef2f663a58cac7ce647dde">
+        <dex dex="C:\Users\pranitha\Desktop\CameraMapsApplication\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_7ba7ccca12d90805b61f82ae0764d4ca1a54adae\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\pranitha\.android\build-cache\8800722a83222e8dcf4547dfec3521d2215f888f\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="e5b429c146094a612134910688d169ec08deeefb">
+        <dex dex="C:\Users\pranitha\Desktop\CameraMapsApplication\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_8f4cb5fb3d687d4292c469515a2e076bab01f778\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\pranitha\.android\build-cache\0e0ac9e9ad200d7a3929b610d5a83597d76ccb62\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="e7f890dd2539b7f2582f450f0721e2dea6ae510c">
+        <dex dex="C:\Users\pranitha\Desktop\CameraMapsApplication\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_aa91ed1cbae66a1474a48066495c050e974b8463\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\pranitha\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\25.2.0\support-annotations-25.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="4a5a82a027706397fff621b22fd6fa796e91d7c5">
+        <dex dex="C:\Users\pranitha\Desktop\CameraMapsApplication\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.2.0_907ba814ef9e0cf1e57e0e1ae8cd4d905aa54df5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\pranitha\.android\build-cache\ab5386961078b0b8a155e9590698a0d8c4ce2f27\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="a25b0b5aec89681b95d32780ad7904c1e1e4c679">
+        <dex dex="C:\Users\pranitha\Desktop\CameraMapsApplication\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_f7c77383f4c8ece113dd2e26eb37f80c5eb0221b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\pranitha\.android\build-cache\8ac7697ba8c5275e2e7384541c8600c79f768484\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="76ea35b41786082af23db898ca9e0fc07cc71fb9">
+        <dex dex="C:\Users\pranitha\Desktop\CameraMapsApplication\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_e1f5fd4a15be6728b6b7a8e791b5a2d6ec2a33a7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\pranitha\.android\build-cache\59d8ba8570a9d130217a056e42484130dd84c602\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="5594a368622908d89c47d9a391aa2724fe046c35">
+        <dex dex="C:\Users\pranitha\Desktop\CameraMapsApplication\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_4621fd2b7114294874d68e0d5e5b27d4f494a4d1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\pranitha\.android\build-cache\90c4802a56b7193b368d80df8f6be53d69951ca0\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="c72b1515efbd8ad652e2d63582c8234a979b1e53">
+        <dex dex="C:\Users\pranitha\Desktop\CameraMapsApplication\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_e11c54441b841f417d712364f619df8d14d07956\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\pranitha\.android\build-cache\b6640f8cc047fd68746e0ee30fa31645a2ca8be3\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="2c73e2a93e00abd240e495c1e62217e53904a3f3">
+        <dex dex="C:\Users\pranitha\Desktop\CameraMapsApplication\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_e433746f060c07575a7ecf3bc0bd881f6b987933\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\pranitha\.android\build-cache\2108f559b773e35f9f6dc935c205a10f678ebf25\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="34c23b5894b4f24d566bfc33e0e25462c6436b78">
+        <dex dex="C:\Users\pranitha\Desktop\CameraMapsApplication\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_5352766f640f118b105d63c1ca9f8b4cc361eb23\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\pranitha\.android\build-cache\c02deb14caaac8ed51ccd172a22a3f8c5e7f5ccb\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="b5b6af36bacf1d812cd3dc45f9dcab9ea471ed91">
+        <dex dex="C:\Users\pranitha\Desktop\CameraMapsApplication\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_b06629974e9f78e40e646a59ad9d293b41beaf0f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\pranitha\.android\build-cache\c80434bc432686f33c6f3d2d4b6830cc4bcf5e0e\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="702d339bc0a81d21354cd7e2cf2b67225fa4a16c">
+        <dex dex="C:\Users\pranitha\Desktop\CameraMapsApplication\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_42fe1802f44053dd139f22f90e0f6a01ad90b913\classes.dex" />
+    </item>
+
+</items>
