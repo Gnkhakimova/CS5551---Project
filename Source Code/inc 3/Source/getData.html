@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <title>Title</title>
+    <link rel="stylesheet" href="css/bootstrap.min.css">
+    <link rel="stylesheet" href="css/tst.css">
+</head>
+<script>
+    function hideFunction() {
+        var x = document.getElementById("resDIV");
+        if (x.style.display === "none" ) {
+            x.style.display = "block";
+        }
+    }
+    </script>
+<body ng-app="demoMongo" ng-controller="getController">
+<center>
+    <div class="col-md-4 col-md-offset-4" style="margin-top: 100px">
+        <div class="box-content profile">
+            <h3 class="widget-title">Search Page</h3>
+            <form class="contact-form simple-form" >
+                <fieldset>
+                    <input type="text" name="firstName" style="width: 100%;" ng-model="formData.LicensePlate" placeholder="LicensePlate">
+                    <div></div></br>
+                    <input type="submit" class="button" style="padding:9px 18px;"
+                           onclick="hideFunction()" ng-click="getDbData()" value="Search">
+                    <input type="submit" class="button" style="padding:9px 18px;" onclick="location.href='insertData.html'"
+                           value="Insert Documents">
+                    <br>
+                </fieldset>
+            </form>
+        </div>
+        <div id="resDIV" class="box-content profile" style="display:none">
+            <table id="weather" class="tftable" border="3">
+                <tr>
+                    <th>License Plate</th>
+                    <th>State</th>
+                    <th>Make</th>
+                    <th>Stolen</th>
+                    <th>Car Accident</th>
+                </tr>
+                <tr ng-repeat="x in fullDocument">
+                    <td>{{x.substring(0,x.indexOf('-'))}}</td>
+                    <td>{{x.substring(x.indexOf('-')+1,x.indexOf('+'))}}</td>
+                    <td>{{x.substring(x.indexOf('+')+1,x.indexOf('@'))}}</td>
+                    <td>{{x.substring(x.indexOf('@')+1,x.indexOf('#'))}}</td>
+                    <td>{{x.substring(x.indexOf('#')+1,x.length)}}</td>
+                    <!--<td>{{x.substring(x.indexOf('-',3)+1,x.indexOf('http')-1)}}</td>-->
+                </tr>
+            </table>
+        </div>
+
+    </div>
+    <script type="text/javascript" src="http://code.angularjs.org/1.1.1/angular.js"></script>
+    <script type="text/javascript" src="http://code.angularjs.org/1.1.1/angular-resource.js"></script>
+    <script type="text/javascript" src="http://code.angularjs.org/1.1.1/angular-sanitize.js"></script>
+    <script src="apps.js"></script>
+</body>
+</html>
